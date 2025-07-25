@@ -1,0 +1,1 @@
+This folder contains all the basic stuffs from creating deleting to manupulating a Linked List in c++
